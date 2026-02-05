@@ -57,7 +57,7 @@ By choosing Soluna for your development needs, you are supporting a local Malays
 ## Connect with Us
 
 <p>
-  <a href="YOUR_GITHUB_URL" target="_blank" style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">GitHub</a>
-  <a href="YOUR_WEBSITE_URL" target="_blank" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Website</a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank" style="display: inline-block; background-color: #e4405f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Instagram</a>
+  <a href="https://github.com/Soluna-MY" target="_blank" style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">GitHub</a>
+  <a href="https://soluna.my" target="_blank" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Website</a>
+  <a href="https://www.instagram.com/solunamy" target="_blank" style="display: inline-block; background-color: #e4405f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Instagram</a>
 </p>
