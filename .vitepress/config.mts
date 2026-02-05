@@ -5,6 +5,36 @@ export default defineConfig({
   title: "Lokalist",
   description: "A Malaysian local projects collection",
 
+  sitemap: {
+    hostname: 'https://lokalist.soluna.my'
+  },
+
+  head: [
+    // Favicon
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+    ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
+  
+    // Web App Manifest
+    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+    ['meta', { name: 'theme-color', content: '#88e637' }],
+  
+    // Open Graph (Facebook, etc.)
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Lokalist by Soluna | Malaysian Projects Collection' }],
+    ['meta', { property: 'og:description', content: 'A curated directory of Malaysian-made software, tools, and platforms.' }],
+    ['meta', { property: 'og:image', content: 'https://lokalist.soluna.my/og.png' }],
+    ['meta', { property: 'og:url', content: 'https://lokalist.soluna.my' }],
+  
+    // Twitter
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Lokalist by Soluna | Malaysian Projects Collection' }],
+    ['meta', { name: 'twitter:description', content: 'A curated directory of Malaysian-made software, tools, and platforms.' }],
+    ['meta', { name: 'twitter:image', content: 'https://lokalist.soluna.my/og.png' }]
+  ],
+
+
   themeConfig: {
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Soluna-MY/lokalist' },
@@ -40,7 +70,9 @@ export default defineConfig({
     root: {
       label: 'English',
       lang: 'en',
+      titleTemplate: ':title | Lokalist Made by Soluna MY | A Malaysian Local Projects Collection',
       themeConfig: {
+        logo: '/lokalist-logo.webp', // Added logo here
         nav: [
           { text: 'Home', link: '/' },
           { text: 'About Soluna', link: '/about/soluna' }
@@ -70,7 +102,9 @@ export default defineConfig({
       label: 'Bahasa Melayu',
       lang: 'ms',
       link: '/ms/',
+      titleTemplate: ':title | Lokalist Made by Soluna MY | A Malaysian Local Projects Collection',
       themeConfig: {
+        logo: '/lokalist-logo.webp', // Added logo here
         nav: [
           { text: 'Laman Utama', link: '/ms/' },
           { text: 'Mengenai Soluna', link: '/ms/about/soluna' }

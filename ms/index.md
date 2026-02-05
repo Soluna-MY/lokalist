@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Lokalist"
-  text: "Koleksi projek tempatan Malaysia"
-  tagline: Dibina oleh Soluna
+  name: '<img src="/lokalist-logo.webp" alt="Lokalist Logo" class="hero-name-logo"> Lokalist'
+  text: "Koleksi Projek Tempatan Malaysia"
+  tagline: 'Dibina oleh <img src="/soluna-logo.webp" alt="Soluna Logo" class="tagline-logo"> Soluna'
   actions:
     - theme: brand
       text: Mulakan

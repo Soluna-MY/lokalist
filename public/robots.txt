@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lokalist.soluna.my/sitemap.xml
