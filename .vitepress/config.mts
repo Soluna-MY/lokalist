@@ -90,7 +90,12 @@ export default defineConfig({
               { text: 'Social', link: '/wiki/social' },
               { text: 'Finance', link: '/wiki/finance' },
               { text: 'Lifestyle', link: '/wiki/lifestyle' },
-              { text: 'Tools', link: '/wiki/tools' }
+              { text: 'Education', link: '/wiki/education' },
+            ]
+          },
+          {
+            text: 'Tools',
+            items: [
             ]
           }
         ],
@@ -122,7 +127,12 @@ export default defineConfig({
               { text: 'Sosial', link: '/ms/wiki/social' },
               { text: 'Kewangan', link: '/ms/wiki/finance' },
               { text: 'Gaya Hidup', link: '/ms/wiki/lifestyle' },
-              { text: 'Alatan', link: '/ms/wiki/tools' }
+              { text: 'Pendidikan', link: '/ms/wiki/education' },
+            ]
+          },
+          {
+            text: 'Alatan',
+            items: [
             ]
           }
         ],
