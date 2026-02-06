@@ -37,6 +37,15 @@ features:
     details: Explore local fintech innovations, from payment solutions and digital wallets to personal finance and investment platforms.
   - icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <defs><linearGradient id="education-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" /><stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" /></linearGradient></defs>
+        <path stroke="url(#education-gradient)" d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+        <path stroke="url(#education-gradient)" d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+      </svg>
+    title: Education
+    link: /wiki/education
+    details: Discover Malaysian projects focused on learning, skill development, and educational resources.
+  - icon: |
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
         <defs><linearGradient id="lifestyle-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#FF69B4;stop-opacity:1" /><stop offset="100%" style="stop-color:#FF8C00;stop-opacity:1" /></linearGradient></defs>
         <path stroke="url(#lifestyle-gradient)" d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path>
         <line stroke="url(#lifestyle-gradient)" x1="3" y1="6" x2="21" y2="6"></line>
@@ -45,13 +54,5 @@ features:
     title: Lifestyle
     link: /wiki/lifestyle
     details: Find apps and services that enhance daily life, including e-commerce, food delivery, travel, and wellness platforms from local creators.
-  - icon: |
-      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-        <defs><linearGradient id="tools-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#708090;stop-opacity:1" /><stop offset="100%" style="stop-color:#4682B4;stop-opacity:1" /></linearGradient></defs>
-        <path stroke="url(#tools-gradient)" d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.77 3.77z"></path>
-      </svg>
-    title: Tools
-    link: /wiki/tools
-    details: A collection of powerful utilities, developer tools, and productivity software built to streamline your workflow.
 ---
 
