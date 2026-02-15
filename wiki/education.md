@@ -1,4 +1,22 @@
-# Education Projects
+---
+title: Education
+description: Discover a list of Malaysian-made education projects, including non-profit organizations and STEM programs, all created by local innovators.
+head:
+  - - meta
+    - property: og:title
+      content: Malaysian Education Projects | Lokalist
+  - - meta
+    - property: og:description
+      content: Discover a list of Malaysian-made education projects, including non-profit organizations and STEM programs, all created by local innovators.
+  - - meta
+    - name: twitter:title
+      content: Malaysian Education Projects | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Discover a list of Malaysian-made education projects, including non-profit organizations and STEM programs, all created by local innovators.
+---
+
+# Education
 This page lists education-focused projects by Malaysian creators.
 
 ## General

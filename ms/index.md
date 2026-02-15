@@ -1,6 +1,21 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Laman Utama
+description: Direktori pilihan projek perisian, alatan, dan platform buatan Malaysia. Terokai projek dari pelbagai kategori seperti sosial, kewangan, pendidikan dan banyak lagi.
+head:
+  - - meta
+    - property: og:title
+      content: Laman Utama | Lokalist
+  - - meta
+    - property: og:description
+      content: Direktori pilihan projek perisian, alatan, dan platform buatan Malaysia. Terokai projek dari pelbagai kategori seperti sosial, kewangan, pendidikan dan banyak lagi.
+  - - meta
+    - name: twitter:title
+      content: Laman Utama | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Direktori pilihan projek perisian, alatan, dan platform buatan Malaysia. Terokai projek dari pelbagai kategori seperti sosial, kewangan, pendidikan dan banyak lagi.
 
 hero:
   name: '<img src="/lokalist-logo.webp" alt="Lokalist Logo" class="hero-name-logo"> Lokalist'
@@ -54,4 +69,22 @@ features:
     title: Gaya Hidup
     link: /ms/wiki/lifestyle
     details: Cari aplikasi dan perkhidmatan yang meningkatkan kehidupan harian, termasuk e-dagang, penghantaran makanan, pelancongan, dan platform kesihatan daripada pencipta tempatan.
+  - icon: |
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <defs><linearGradient id="games-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#8A2BE2;stop-opacity:1" /><stop offset="100%" style="stop-color:#4169E1;stop-opacity:1" /></linearGradient></defs>
+        <path stroke="url(#games-gradient)" d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path>
+        <line stroke="url(#games-gradient)" x1="3" y1="6" x2="21" y2="6"></line>
+        <path stroke="url(#games-gradient)" d="M16 10a4 4 0 0 1-8 0"></path>
+      </svg>
+    title: Permainan
+    link: /ms/wiki/games
+    details: Terokai permainan dan platform permainan buatan Malaysia.
+  - icon: |
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <defs><linearGradient id="tools-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#32CD32;stop-opacity:1" /><stop offset="100%" style="stop-color:#228B22;stop-opacity:1" /></linearGradient></defs>
+        <path stroke="url(#tools-gradient)" d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
+      </svg>
+    title: Alatan
+    link: /ms/wiki/tools
+    details: Terokai pelbagai alatan dan utiliti yang dicipta oleh pembangun Malaysia untuk meningkatkan produktiviti dan memudahkan tugas.
 ---

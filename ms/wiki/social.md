@@ -1,4 +1,22 @@
-# Projek Sosial
+---
+title: Sosial
+description: Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysia.
+head:
+  - - meta
+    - property: og:title
+      content: Sosial | Lokalist
+  - - meta
+    - property: og:description
+      content: Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysia.
+  - - meta
+    - name: twitter:title
+      content: Sosial | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysia.
+---
+
+# Sosial
 Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysia.
 
 ## Media
@@ -27,3 +45,18 @@ Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysi
 ## Amal & Bukan Untung
 * [**MERCY Malaysia**](https://www.mercy.org.my/) — Sebuah pertubuhan bukan untung yang memberi tumpuan kepada penyediaan bantuan perubatan dan pembangunan berkaitan kesihatan yang mampan. <Badge type="info" text="Perubatan" />
 * [**Make-A-Wish Malaysia**](https://www.makeawish.org.my/) — Sebuah pertubuhan bukan untung yang menunaikan hasrat kanak-kanak yang menghidap penyakit kritikal. <Badge type="info" text="Kanak-kanak" />
+
+## Agama
+* [**JejakMasjid**](https://jejakmasjid.my/) - Aplikasi teman perjalanan peribadi yang direka untuk membantu pengguna merakam dan menghargai lawatan mereka ke masjid. <Badge type="info" text="Islam" />
+* [**LepakMasjid**](https://lepakmasjid.app/) - Direktori masjid yang dikuasakan oleh komuniti. <Badge type="info" text="Islam" />
+* [**Mindful Scroll**](https://play.google.com/store/apps/details?id=tech.deta.mindful_scroll) - Kunci Aplikasi Al-Quran untuk membantu umat Islam membina tabiat membaca Al-Quran setiap hari. <Badge type="info" text="Islam" />
+* [**Tadabbur**](https://hashtech.app/) - Aplikasi untuk pengajian dan penghayatan Al-Quran. <Badge type="info" text="Islam" />
+
+## Ekonomi Pencipta
+* [**Arkedd**](https://arkedd.com/) - Platform di mana pencipta boleh membina, memuat naik dan berkongsi produk digital mereka di seluruh dunia. <Badge type="info" text="Produk Digital" />
+
+## Acara & Kenangan
+* [**Momentsly**](https://www.momentsly.my/) - Platform untuk membuat galeri acara yang cantik, mengumpul foto daripada tetamu, dan menghidupkan semula detik istimewa bersama. <Badge type="info" text="Pengurusan Acara" />
+
+## Pekerjaan & Kerjaya
+* [**CariLocum**](https://carilocum.com/) - Platform untuk profesional penjagaan kesihatan untuk mencari peluang locum yang fleksibel di Malaysia. <Badge type="info" text="Penjagaan Kesihatan" />

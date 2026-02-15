@@ -1,3 +1,21 @@
+---
+title: FAQ
+description: Find answers to common questions about Lokalist, including our mission, submission criteria for Malaysian projects, and how we manage our curated directory.
+head:
+  - - meta
+    - property: og:title
+      content: FAQ | Lokalist
+  - - meta
+    - property: og:description
+      content: Find answers to common questions about Lokalist, including our mission, submission criteria for Malaysian projects, and how we manage our curated directory.
+  - - meta
+    - name: twitter:title
+      content: FAQ | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Find answers to common questions about Lokalist, including our mission, submission criteria for Malaysian projects, and how we manage our curated directory.
+---
+
 # Frequently Asked Questions
 
 Common questions about Lokalist and how we manage the Malaysian project directory.

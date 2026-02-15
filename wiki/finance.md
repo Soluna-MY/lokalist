@@ -1,4 +1,22 @@
-# Finance Projects
+---
+title: Finance
+description: Explore a comprehensive list of Malaysian finance and FinTech projects, including digital banks, investment platforms, e-wallets, and budgeting apps.
+head:
+  - - meta
+    - property: og:title
+      content: Malaysian Finance & FinTech Projects | Lokalist
+  - - meta
+    - property: og:description
+      content: Explore a comprehensive list of Malaysian finance and FinTech projects, including digital banks, investment platforms, e-wallets, and budgeting apps.
+  - - meta
+    - name: twitter:title
+      content: Malaysian Finance & FinTech Projects | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Explore a comprehensive list of Malaysian finance and FinTech projects, including digital banks, investment platforms, e-wallets, and budgeting apps.
+---
+
+# Finance
 This page lists finance and fintech projects by Malaysian creators.
 
 ## Digital Bank
@@ -35,6 +53,7 @@ Profit rates in digital banks are often promotional.
 
 ### Cryptocurrency
 * [**Luno**](https://www.luno.com/ms/discover) — A platform for buying, selling, and managing cryptocurrencies. <Badge type="info" text="Crypto" />
+* [**BLOX**](https://www.blox.my/) - A MYRC Stablecoin Issuer. MYRC is Malaysia's first Ringgit Stablecoin. <Badge type="info" text="Stablecoin" />
 
 ## E-Wallets
 * [**Touch 'n Go eWallet**](https://www.touchngo.com.my/) — Digital wallet with financial services like GO+ for microsavings. <Badge type="tip" text="eWallet" />
@@ -43,6 +62,13 @@ Profit rates in digital banks are often promotional.
 ## Budgeting
 * [**Finory**](https://finory.app/) — A homegrown app for Malaysians to track expenses and optimize credit card rewards. <Badge type="tip" text="Local" /> <Badge type="info" text="Budgeting App" />
 * [**MyTabung**](https://www.bnm.gov.my/mobile-apps) — A money management app by Bank Negara Malaysia. <Badge type="tip" text="BNM" /> <Badge type="info" text="Budgeting App" />
+* [**Hutang App**](https://hutang.app/) - An application designed to help users track debts and manage receivables. <Badge type="info" text="Debt Management" />
+
+## Receipt Management
+* [**ResitMudah**](https://play.google.com/store/apps/details?id=my.resitmudah) - An app for scanning, storing, and managing receipts with AI-powered accuracy. <Badge type="info" text="AI" />
 
 ## Tax
 * [**KiraCukai**](https://kiracukai.my) — Personal income tax calculator for Malaysian. <Badge type="info" text="Calculator" />
+
+## Credit Card Comparison
+* [**KadKredit**](https://www.kadkredit.my/) - A platform to compare Islamic credit cards in Malaysia. <Badge type="info" text="Comparison" />

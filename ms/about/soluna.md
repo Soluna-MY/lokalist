@@ -1,3 +1,21 @@
+---
+title: Mengenai Soluna
+description: Ketahui tentang Soluna, pasukan pembangunan web Malaysia di sebalik Lokalist. Terokai misi kami, kepakaran dalam pembangunan 'full-stack', dan mengapa kami membina projek komuniti ini.
+head:
+  - - meta
+    - property: og:title
+      content: Mengenai Soluna | Lokalist
+  - - meta
+    - property: og:description
+      content: Ketahui tentang Soluna, pasukan pembangunan web Malaysia di sebalik Lokalist. Terokai misi kami, kepakaran dalam pembangunan 'full-stack', dan mengapa kami membina projek komuniti ini.
+  - - meta
+    - name: twitter:title
+      content: Mengenai Soluna | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Ketahui tentang Soluna, pasukan pembangunan web Malaysia di sebalik Lokalist. Terokai misi kami, kepakaran dalam pembangunan 'full-stack', dan mengapa kami membina projek komuniti ini.
+---
+
 # Mengenai Soluna
 
 **Soluna** ialah penyedia perkhidmatan pembangunan web Malaysia yang berdedikasi untuk membina sistem berkualiti tinggi, berskala, dan bermakna. Walaupun **Lokalist** adalah hadiah kami kepada komuniti, kerja teras kami melibatkan bantuan kepada perniagaan dan inovator untuk merealisasikan visi digital mereka.

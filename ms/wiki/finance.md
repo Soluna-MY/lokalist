@@ -1,4 +1,22 @@
-# Projek Kewangan
+---
+title: Kewangan
+description: Terokai senarai komprehensif projek kewangan dan FinTech Malaysia, termasuk bank digital, platform pelaburan, e-dompet, dan aplikasi belanjawan.
+head:
+  - - meta
+    - property: og:title
+      content: Projek Kewangan & FinTech Malaysia | Lokalist
+  - - meta
+    - property: og:description
+      content: Terokai senarai komprehensif projek kewangan dan FinTech Malaysia, termasuk bank digital, platform pelaburan, e-dompet, dan aplikasi belanjawan.
+  - - meta
+    - name: twitter:title
+      content: Projek Kewangan & FinTech Malaysia | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Terokai senarai komprehensif projek kewangan dan FinTech Malaysia, termasuk bank digital, platform pelaburan, e-dompet, dan aplikasi belanjawan.
+---
+
+# Kewangan
 Halaman ini menyenaraikan projek kewangan dan teknologi kewangan oleh pencipta Malaysia.
 
 ## Bank Digital
@@ -34,7 +52,8 @@ Kadar keuntungan di bank digital selalunya bersifat promosi.
 * [**Mplus Online**](https://www.mplusonline.com.my/) — Platform berasaskan aplikasi untuk pelaburan dalam pasaran modal. <Badge type="tip" text="Broker Dalam Talian" />
 
 ### Mata Wang Kripto
-* [**Luno**](https://www.luno.com/ms/discover) — Platform untuk membeli, menjual dan mengurus mata wang kripto. <Badge type="info" text="Kripto" />
+* [**Luno**](httpshttps://www.luno.com/ms/discover) — Platform untuk membeli, menjual dan mengurus mata wang kripto. <Badge type="info" text="Kripto" />
+* [**BLOX**](https://www.blox.my/) - Penerbit Stablecoin MYRC. MYRC ialah Stablecoin Ringgit pertama di Malaysia. <Badge type="info" text="Stablecoin" />
 
 ## E-Dompet
 * [**Touch 'n Go eWallet**](https://www.touchngo.com.my/) — Dompet digital dengan perkhidmatan kewangan seperti GO+ untuk simpanan mikro. <Badge type="tip" text="e-Dompet" />
@@ -43,6 +62,13 @@ Kadar keuntungan di bank digital selalunya bersifat promosi.
 ## Belanjawan
 * [**Finory**](https://finory.app/) — Aplikasi tempatan untuk rakyat Malaysia menjejaki perbelanjaan dan mengoptimumkan ganjaran kad kredit. <Badge type="tip" text="Tempatan" /> <Badge type="info" text="Aplikasi Belanjawan" />
 * [**MyTabung**](https://www.bnm.gov.my/mobile-apps) — Aplikasi pengurusan wang oleh Bank Negara Malaysia. <Badge type="tip" text="BNM" /> <Badge type="info" text="Aplikasi Belanjawan" />
+* [**Hutang App**](https://hutang.app/) - Aplikasi yang direka untuk membantu pengguna menjejaki hutang dan menguruskan penghutang. <Badge type="info" text="Pengurusan Hutang" />
+
+## Pengurusan Resit
+* [**ResitMudah**](https://play.google.com/store/apps/details?id=my.resitmudah) - Aplikasi untuk mengimbas, menyimpan dan mengurus resit dengan ketepatan berkuasa AI. <Badge type="info" text="AI" />
 
 ## Cukai
 * [**KiraCukai**](https://kiracukai.my) — Kalkulator cukai pendapatan peribadi untuk rakyat Malaysia. <Badge type="info" text="Kalkulator" />
+
+## Perbandingan Kad Kredit
+* [**KadKredit**](https://www.kadkredit.my/) - Platform untuk membandingkan kad kredit Islamik di Malaysia. <Badge type="info" text="Perbandingan" />

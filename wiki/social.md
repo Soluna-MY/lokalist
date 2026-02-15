@@ -1,4 +1,22 @@
-# Social Projects
+---
+title: Social
+description: Discover a list of Malaysian social projects, including independent news portals, community platforms, social enterprises, and non-profit organizations.
+head:
+  - - meta
+    - property: og:title
+      content: Malaysian Social & Community Projects | Lokalist
+  - - meta
+    - property: og:description
+      content: Discover a list of Malaysian social projects, including independent news portals, community platforms, social enterprises, and non-profit organizations.
+  - - meta
+    - name: twitter:title
+      content: Malaysian Social & Community Projects | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Discover a list of Malaysian social projects, including independent news portals, community platforms, social enterprises, and non-profit organizations.
+---
+
+# Social
 This page lists social-focused projects by Malaysian creators.
 
 ## Media
@@ -22,8 +40,23 @@ This page lists social-focused projects by Malaysian creators.
 * [**Tanoti**](https://www.tanoticrafts.com/) — Works to preserve the traditional art of songket weaving and empower rural women. <Badge type="info" text="Heritage" />
 * [**Batik Boutique**](https://www.thebatikboutique.com/) — Empowers marginalized artisans to create fair fashion using traditional batik. <Badge type="info" text="Ethical Fashion" />
 * [**Picha Eats**](https://www.pichaeats.com/) — Empowers refugees by enabling them to prepare and deliver cuisine from their home countries. <Badge type="tip" text="Food" />
-* [**Urban Hijau**](https://www.urbanhijau.org/) — An urban organic farm promoting sustainable farming and community training. <Badge type="tip"text="Environment" />
+* [**Urban Hijau**](https://www.urbanhijau.org/) — An urban organic farm promoting sustainable farming and community training. <Badge type="tip" text="Environment" />
 
 ## Charity & Non-Profit
 * [**MERCY Malaysia**](https://www.mercy.org.my/) — A non-profit organisation focused on providing medical relief and sustainable health-related development. <Badge type="info" text="Medical" />
 * [**Make-A-Wish Malaysia**](https://www.makeawish.org.my/) — A non-profit organisation that grants the wishes of children with critical illnesses. <Badge type="info" text="Children" />
+
+## Religion
+* [**JejakMasjid**](https://jejakmasjid.my/) - A personal journey companion application designed to help users record and cherish their visits to mosques. <Badge type="info" text="Islam" />
+* [**LepakMasjid**](https://lepakmasjid.app/) - A community-powered mosque directory. <Badge type="info" text="Islam" />
+* [**Mindful Scroll**](https://play.google.com/store/apps/details?id=tech.deta.mindful_scroll) - A Quran App Lock to help Muslims build daily Quran reading habits. <Badge type="info" text="Islam" />
+* [**Tadabbur**](https://hashtech.app/) - An app for Quran study and reflection. <Badge type="info" text="Islam" />
+
+## Creator Economy
+* [**Arkedd**](https://arkedd.com/) - A platform where creators can build, upload, and share their digital products globally. <Badge type="info" text="Digital Products" />
+
+## Events & Memories
+* [**Momentsly**](https://www.momentsly.my/) - A platform to create beautiful event galleries, collect photos from guests, and relive special moments together. <Badge type="info" text="Event Management" />
+
+## Job & Career
+* [**CariLocum**](https://carilocum.com/) - A platform for healthcare professionals to find flexible locum opportunities in Malaysia. <Badge type="info" text="Healthcare" />

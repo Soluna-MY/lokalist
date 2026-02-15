@@ -1,3 +1,21 @@
+---
+title: Pengenalan
+description: Ketahui tentang Lokalist, sebuah direktori projek digital buatan Malaysia yang dipacu komuniti. Misi kami adalah untuk meningkatkan keterlihatan perisian tempatan dan menyokong ekosistem teknologi Malaysia.
+head:
+  - - meta
+    - property: og:title
+      content: Pengenalan | Lokalist
+  - - meta
+    - property: og:description
+      content: Ketahui tentang Lokalist, sebuah direktori projek digital buatan Malaysia yang dipacu komuniti. Misi kami adalah untuk meningkatkan keterlihatan perisian tempatan dan menyokong ekosistem teknologi Malaysia.
+  - - meta
+    - name: twitter:title
+      content: Pengenalan | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Ketahui tentang Lokalist, sebuah direktori projek digital buatan Malaysia yang dipacu komuniti. Misi kami adalah untuk meningkatkan keterlihatan perisian tempatan dan menyokong ekosistem teknologi Malaysia.
+---
+
 # Pengenalan
 
 ## Apa itu Lokalist?

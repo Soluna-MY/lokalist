@@ -1,3 +1,21 @@
+---
+title: Introduction
+description: Learn about Lokalist, a community-driven directory of Malaysian-made digital projects. Our mission is to increase the visibility of local software and support the Malaysian tech ecosystem.
+head:
+  - - meta
+    - property: og:title
+      content: Introduction | Lokalist
+  - - meta
+    - property: og:description
+      content: Learn about Lokalist, a community-driven directory of Malaysian-made digital projects. Our mission is to increase the visibility of local software and support the Malaysian tech ecosystem.
+  - - meta
+    - name: twitter:title
+      content: Introduction | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Learn about Lokalist, a community-driven directory of Malaysian-made digital projects. Our mission is to increase the visibility of local software and support the Malaysian tech ecosystem.
+---
+
 # Introduction
 
 ## What is Lokalist?

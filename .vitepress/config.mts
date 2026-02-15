@@ -91,14 +91,21 @@ export default defineConfig({
               { text: 'Finance', link: '/wiki/finance' },
               { text: 'Lifestyle', link: '/wiki/lifestyle' },
               { text: 'Education', link: '/wiki/education' },
+              { text: 'Games', link: '/wiki/games' },
+              { text: 'Tools', link: '/wiki/tools' },
+              { text: 'Technology', link: '/wiki/technology' },
             ]
           },
           {
             text: 'Tools',
             items: [
+              { text: 'Business', link: '/wiki/tools/#business' },
+              { text: 'Productivity', link: '/wiki/tools/#productivity' }
             ]
           }
         ],
+        // The following settings are inherited by all locales
+        // and do not need to be translated here.
         // The following settings are inherited by all locales
         // and do not need to be translated here.
       }
@@ -128,11 +135,15 @@ export default defineConfig({
               { text: 'Kewangan', link: '/ms/wiki/finance' },
               { text: 'Gaya Hidup', link: '/ms/wiki/lifestyle' },
               { text: 'Pendidikan', link: '/ms/wiki/education' },
+              { text: 'Permainan', link: '/ms/wiki/games' },
+              { text: 'Teknologi', link: '/ms/wiki/technology' },
             ]
           },
           {
             text: 'Alatan',
             items: [
+              { text: 'Perniagaan', link: '/ms/wiki/tools/#perniagaan' },
+              { text: 'Produktiviti', link: '/ms/wiki/tools/#produktiviti' }
             ]
           }
         ],
