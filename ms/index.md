@@ -6,7 +6,7 @@ description: Direktori pilihan projek perisian, alatan, dan platform buatan Mala
 head:
   - - meta
     - property: og:title
-      content: Laman Utama | Lokalist
+      content: Lokalist oleh Soluna | Koleksi Projek Tempatan Malaysia
   - - meta
     - property: og:description
       content: Direktori pilihan projek perisian, alatan, dan platform buatan Malaysia. Terokai projek dari pelbagai kategori seperti sosial, kewangan, pendidikan dan banyak lagi.

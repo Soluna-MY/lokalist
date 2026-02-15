@@ -34,6 +34,7 @@ This page lists lifestyle-related projects by Malaysian creators.
 
 ## Food & Beverage
 * [**Kerisik**](https://www.kerisik.app/) - A recipe manager app to organize recipes, plan meals, and generate grocery lists. <Badge type="info" text="Recipe Manager" />
+* [**Juadah**](https://juadah.my/) - A platform for discovering and ordering traditional home-cooked Malaysian meals. <Badge type="info" text="Home-Cooked Food" />
 
 ## Wedding
 * [**JomKahwin**](https://jomkahwin.blog/) - A platform to find wedding vendors in Malaysia. <Badge type="info" text="Wedding Vendor" />

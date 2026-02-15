@@ -34,6 +34,7 @@ Halaman ini menyenaraikan projek-projek berkaitan gaya hidup oleh pencipta Malay
 
 ## Makanan & Minuman
 * [**Kerisik**](https://www.kerisik.app/) - Aplikasi pengurus resipi untuk menyusun resipi, merancang makanan dan menjana senarai barangan runcit. <Badge type="info" text="Pengurus Resipi" />
+* [**Juadah**](https://juadah.my/) - Platform untuk mencari dan memesan hidangan masakan rumah tradisional Malaysia. <Badge type="info" text="Makanan Masakan Rumah" />
 
 ## Perkahwinan
 * [**JomKahwin**](https://jomkahwin.blog/) - Platform untuk mencari vendor perkahwinan di Malaysia. <Badge type="info" text="Vendor Perkahwinan" />
