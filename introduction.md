@@ -20,9 +20,11 @@ head:
 
 ## What is Lokalist?
 
+::: info
 **Lokalist** is a curated, community-driven directory dedicated to showcasing the digital landscape of Malaysia. From massive government systems to niche open-source tools, we collect and categorize projects that share one common DNA: **They are built by Malaysians.**
-
+<br><br>
 In a world dominated by global tech giants, Lokalist serves as a dedicated space to discover local alternatives, support homegrown innovation, and celebrate the technical talent within our borders.
+:::
 
 ---
 
@@ -49,7 +51,7 @@ We believe in the **#SupportLokal** movement. By choosing a Malaysian-made syste
 
 ## Built by the Community, for the Community
 
-Lokalist is a project maintained with ❤️ by **Soluna**. 
+Lokalist is a project maintained by **Soluna**. 
 
 As a team dedicated to web development services, we at **Soluna** wanted to create a platform that doesn't just offer services, but highlights the incredible work already being done by our peers across the country.
 
@@ -69,4 +71,4 @@ Lokalist is a **static directory**. This means everything you see here is hardco
 
 ---
 
-*“Majulah Sukan untuk Negara, Majulah Tech untuk Kita.”*
+> *“Majulah Sukan untuk Negara, Majulah Tech untuk Kita.”*
