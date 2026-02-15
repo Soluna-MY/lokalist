@@ -6,7 +6,7 @@ description: A curated directory of Malaysian-made software, tools, and platform
 head:
   - - meta
     - property: og:title
-      content: Home | Lokalist
+      content: Lokalist by Soluna | Malaysian Projects Collection
   - - meta
     - property: og:description
       content: A curated directory of Malaysian-made software, tools, and platforms. Discover projects from various categories like social, finance, education, and more.
