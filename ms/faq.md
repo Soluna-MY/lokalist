@@ -1,3 +1,21 @@
+---
+title: Soalan Lazim
+description: Dapatkan jawapan untuk soalan lazim mengenai Lokalist, termasuk misi kami, kriteria penyerahan untuk projek Malaysia, dan cara kami mengurus direktori pilihan kami.
+head:
+  - - meta
+    - property: og:title
+      content: Soalan Lazim | Lokalist
+  - - meta
+    - property: og:description
+      content: Dapatkan jawapan untuk soalan lazim mengenai Lokalist, termasuk misi kami, kriteria penyerahan untuk projek Malaysia, dan cara kami mengurus direktori pilihan kami.
+  - - meta
+    - name: twitter:title
+      content: Soalan Lazim | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Dapatkan jawapan untuk soalan lazim mengenai Lokalist, termasuk misi kami, kriteria penyerahan untuk projek Malaysia, dan cara kami mengurus direktori pilihan kami.
+---
+
 # Soalan Lazim
 
 Soalan lazim mengenai Lokalist dan cara kami menguruskan direktori projek Malaysia.

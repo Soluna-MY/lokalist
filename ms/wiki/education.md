@@ -1,4 +1,22 @@
-# Projek Pendidikan
+---
+title: Pendidikan
+description: Terokai senarai projek pendidikan buatan Malaysia, termasuk pertubuhan bukan untung dan program STEM, semuanya dicipta oleh inovator tempatan.
+head:
+  - - meta
+    - property: og:title
+      content: Projek Pendidikan Malaysia | Lokalist
+  - - meta
+    - property: og:description
+      content: Terokai senarai projek pendidikan buatan Malaysia, termasuk pertubuhan bukan untung dan program STEM, semuanya dicipta oleh inovator tempatan.
+  - - meta
+    - name: twitter:title
+      content: Projek Pendidikan Malaysia | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Terokai senarai projek pendidikan buatan Malaysia, termasuk pertubuhan bukan untung dan program STEM, semuanya dicipta oleh inovator tempatan.
+---
+
+# Pendidikan
 Halaman ini menyenaraikan projek-projek berfokuskan pendidikan oleh pencipta Malaysia.
 
 ## Umum

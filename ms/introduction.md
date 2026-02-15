@@ -1,10 +1,30 @@
+---
+title: Pengenalan
+description: Ketahui tentang Lokalist, sebuah direktori projek digital buatan Malaysia yang dipacu komuniti. Misi kami adalah untuk meningkatkan keterlihatan perisian tempatan dan menyokong ekosistem teknologi Malaysia.
+head:
+  - - meta
+    - property: og:title
+      content: Pengenalan | Lokalist
+  - - meta
+    - property: og:description
+      content: Ketahui tentang Lokalist, sebuah direktori projek digital buatan Malaysia yang dipacu komuniti. Misi kami adalah untuk meningkatkan keterlihatan perisian tempatan dan menyokong ekosistem teknologi Malaysia.
+  - - meta
+    - name: twitter:title
+      content: Pengenalan | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Ketahui tentang Lokalist, sebuah direktori projek digital buatan Malaysia yang dipacu komuniti. Misi kami adalah untuk meningkatkan keterlihatan perisian tempatan dan menyokong ekosistem teknologi Malaysia.
+---
+
 # Pengenalan
 
 ## Apa itu Lokalist?
 
+::: info
 **Lokalist** ialah direktori terpilih yang dipacu komuniti, didedikasikan untuk mempamerkan landskap digital Malaysia. Daripada sistem kerajaan yang besar kepada alatan sumber terbuka khusus, kami mengumpul dan mengkategorikan projek yang berkongsi satu DNA yang sama: **Ia dibina oleh rakyat Malaysia.**
-
+<br><br>
 Dalam dunia yang didominasi oleh gergasi teknologi global, Lokalist berfungsi sebagai ruang khusus untuk menemui alternatif tempatan, menyokong inovasi tempatan, dan meraikan bakat teknikal di dalam negara kita.
+:::
 
 ---
 
@@ -31,7 +51,7 @@ Kami percaya dengan gerakan **#SupportLokal**. Dengan memilih sistem atau aplika
 
 ## Dibina oleh Komuniti, untuk Komuniti
 
-Lokalist ialah projek yang diselenggara dengan ❤️ oleh **Soluna**. 
+Lokalist ialah projek yang diselenggara oleh **Soluna**. 
 
 Sebagai satu pasukan yang berdedikasi kepada perkhidmatan pembangunan web, kami di **Soluna** ingin mencipta satu platform yang bukan sahaja menawarkan perkhidmatan, tetapi mengetengahkan hasil kerja luar biasa yang telah dilakukan oleh rakan-rakan kami di seluruh negara.
 
@@ -51,4 +71,4 @@ Lokalist ialah **direktori statik**. Ini bermakna semua yang anda lihat di sini 
 
 ---
 
-*“Majulah Sukan untuk Negara, Majulah Tech untuk Kita.”*
+> *“Majulah Sukan untuk Negara, Majulah Tech untuk Kita.”*

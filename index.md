@@ -1,6 +1,21 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Home
+description: A curated directory of Malaysian-made software, tools, and platforms. Discover projects from various categories like social, finance, education, and more.
+head:
+  - - meta
+    - property: og:title
+      content: Home | Lokalist
+  - - meta
+    - property: og:description
+      content: A curated directory of Malaysian-made software, tools, and platforms. Discover projects from various categories like social, finance, education, and more.
+  - - meta
+    - name: twitter:title
+      content: Home | Lokalist
+  - - meta
+    - name: twitter:description
+      content: A curated directory of Malaysian-made software, tools, and platforms. Discover projects from various categories like social, finance, education, and more.
 
 hero:
   name: '<img src="/lokalist-logo.webp" alt="Lokalist Logo" class="hero-name-logo"> Lokalist'
@@ -54,5 +69,23 @@ features:
     title: Lifestyle
     link: /wiki/lifestyle
     details: Find apps and services that enhance daily life, including e-commerce, food delivery, travel, and wellness platforms from local creators.
+  - icon: |
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <defs><linearGradient id="games-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#8A2BE2;stop-opacity:1" /><stop offset="100%" style="stop-color:#4169E1;stop-opacity:1" /></linearGradient></defs>
+        <path stroke="url(#games-gradient)" d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path>
+        <line stroke="url(#games-gradient)" x1="3" y1="6" x2="21" y2="6"></line>
+        <path stroke="url(#games-gradient)" d="M16 10a4 4 0 0 1-8 0"></path>
+      </svg>
+    title: Games
+    link: /wiki/games
+    details: Discover Malaysian-made games and gaming platforms.
+  - icon: |
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <defs><linearGradient id="tools-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#32CD32;stop-opacity:1" /><stop offset="100%" style="stop-color:#228B22;stop-opacity:1" /></linearGradient></defs>
+        <path stroke="url(#tools-gradient)" d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
+      </svg>
+    title: Tools
+    link: /wiki/tools
+    details: Explore a variety of tools and utilities created by Malaysian developers to boost productivity and streamline tasks.
 ---
 

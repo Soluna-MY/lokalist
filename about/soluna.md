@@ -1,3 +1,21 @@
+---
+title: About Soluna
+description: Learn about Soluna, the Malaysian web development team behind Lokalist. Discover our mission, expertise in full-stack development, and why we built this community project.
+head:
+  - - meta
+    - property: og:title
+      content: About Soluna | Lokalist
+  - - meta
+    - property: og:description
+      content: Learn about Soluna, the Malaysian web development team behind Lokalist. Discover our mission, expertise in full-stack development, and why we built this community project.
+  - - meta
+    - name: twitter:title
+      content: About Soluna | Lokalist
+  - - meta
+    - name: twitter:description
+      content: Learn about Soluna, the Malaysian web development team behind Lokalist. Discover our mission, expertise in full-stack development, and why we built this community project.
+---
+
 # About Soluna
 
 **Soluna** is a Malaysian web development services provider dedicated to building high-quality, scalable, and meaningful systems. While **Lokalist** is our gift to the community, our core work involves helping businesses and innovators bring their digital visions to life.
