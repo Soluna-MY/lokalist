@@ -12,7 +12,7 @@ head:
       content: A curated directory of Malaysian-made software, tools, and platforms. Discover projects from various categories like social, finance, education, and more.
   - - meta
     - name: twitter:title
-      content: Home | Lokalist
+      content: Lokalist by Soluna | Malaysian Projects Collection
   - - meta
     - name: twitter:description
       content: A curated directory of Malaysian-made software, tools, and platforms. Discover projects from various categories like social, finance, education, and more.
