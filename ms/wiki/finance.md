@@ -70,5 +70,6 @@ Kadar keuntungan di bank digital selalunya bersifat promosi.
 ## Cukai
 * [**KiraCukai**](https://kiracukai.my) — Kalkulator cukai pendapatan peribadi untuk rakyat Malaysia. <Badge type="info" text="Kalkulator" />
 
-## Perbandingan Kad Kredit
-* [**KadKredit**](https://www.kadkredit.my/) - Platform untuk membandingkan kad kredit Islamik di Malaysia. <Badge type="info" text="Perbandingan" />
+## Perbandingan
+* [**KadKredit**](https://www.kadkredit.my/) - Platform untuk membandingkan kad kredit Islamik di Malaysia. <Badge type="info" text="Kad Kredit" />
+* [**MurahBeli**](https://murahbeli.com/) — Perbandingan harga barangan runcit dan keperluan di Malaysia. <Badge type="info" text="Perbandingan Harga" />

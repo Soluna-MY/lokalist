@@ -51,6 +51,9 @@ This page lists social-focused projects by Malaysian creators.
 * [**LepakMasjid**](https://lepakmasjid.app/) - A community-powered mosque directory. <Badge type="info" text="Islam" />
 * [**Mindful Scroll**](https://play.google.com/store/apps/details?id=tech.deta.mindful_scroll) - A Quran App Lock to help Muslims build daily Quran reading habits. <Badge type="info" text="Islam" />
 * [**Tadabbur**](https://hashtech.app/) - An app for Quran study and reflection. <Badge type="info" text="Islam" />
+* [**Rayyan**](https://rayyan.soluna.my) - A modern digital Al-Quran application. <Badge type="info" text="Islam" />
+* [**GoSolat**](https://www.gosolat.com/en/) - Prayer times and worship guide. <Badge type="info" text="Islam" />
+* [**Islah**](https://islah.my) - Islamic community and education platform. <Badge type="info" text="Islam" />
 
 ## Creator Economy
 * [**Arkedd**](https://arkedd.com/) - A platform where creators can build, upload, and share their digital products globally. <Badge type="info" text="Digital Products" />
@@ -60,3 +63,5 @@ This page lists social-focused projects by Malaysian creators.
 
 ## Job & Career
 * [**CariLocum**](https://carilocum.com/) - A platform for healthcare professionals to find flexible locum opportunities in Malaysia. <Badge type="info" text="Healthcare" />
+* [**CariWork.com**](https://cariwork.com/) - Job search platform in Malaysia. <Badge type="info" text="Job Search" />
+* [**JOBS by DeveloperKaki**](https://jobs.developerkaki.my/) - Job board specifically for software developers. <Badge type="info" text="Job Search" />
