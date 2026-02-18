@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Lokalist",
   description: "A Malaysian local projects collection",
+  srcExclude: ['**/README.md'],
 
   sitemap: {
     hostname: 'https://lokalist.soluna.my'
