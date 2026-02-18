@@ -51,6 +51,9 @@ Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysi
 * [**LepakMasjid**](https://lepakmasjid.app/) - Direktori masjid yang dikuasakan oleh komuniti. <Badge type="info" text="Islam" />
 * [**Mindful Scroll**](https://play.google.com/store/apps/details?id=tech.deta.mindful_scroll) - Kunci Aplikasi Al-Quran untuk membantu umat Islam membina tabiat membaca Al-Quran setiap hari. <Badge type="info" text="Islam" />
 * [**Tadabbur**](https://hashtech.app/) - Aplikasi untuk pengajian dan penghayatan Al-Quran. <Badge type="info" text="Islam" />
+* [**Rayyan**](https://rayyan.soluna.my) — Aplikasi Al-Quran digital yang moden. <Badge type="info" text="Islam" />
+* [**GoSolat**](https://www.gosolat.com/en/) — Waktu solat dan panduan ibadah. <Badge type="info" text="Islam" />
+* [**Islah**](https://islah.my) — Platform komuniti dan pendidikan Islam. <Badge type="info" text="Islam" />
 
 ## Ekonomi Pencipta
 * [**Arkedd**](https://arkedd.com/) - Platform di mana pencipta boleh membina, memuat naik dan berkongsi produk digital mereka di seluruh dunia. <Badge type="info" text="Produk Digital" />
@@ -60,3 +63,5 @@ Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysi
 
 ## Pekerjaan & Kerjaya
 * [**CariLocum**](https://carilocum.com/) - Platform untuk profesional penjagaan kesihatan untuk mencari peluang locum yang fleksibel di Malaysia. <Badge type="info" text="Penjagaan Kesihatan" />
+* [**CariWork.com**](https://cariwork.com/) — Platform carian kerja di Malaysia. <Badge type="info" text="Carian Kerja" />
+* [**JOBS by DeveloperKaki**](https://jobs.developerkaki.my/) — Papan kerja khusus untuk pembangun perisian. <Badge type="info" text="Carian Kerja" />

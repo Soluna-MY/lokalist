@@ -70,5 +70,6 @@ Profit rates in digital banks are often promotional.
 ## Tax
 * [**KiraCukai**](https://kiracukai.my) — Personal income tax calculator for Malaysian. <Badge type="info" text="Calculator" />
 
-## Credit Card Comparison
-* [**KadKredit**](https://www.kadkredit.my/) - A platform to compare Islamic credit cards in Malaysia. <Badge type="info" text="Comparison" />
+## Comparison
+* [**KadKredit**](https://www.kadkredit.my/) - A platform to compare Islamic credit cards in Malaysia. <Badge type="info" text="Credit Card" />
+* [**MurahBeli**](https://murahbeli.com/) - Price comparison for groceries and essentials in Malaysia. <Badge type="info" text="Price Comparison" />
