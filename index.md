@@ -87,5 +87,14 @@ features:
     title: Tools
     link: /wiki/tools
     details: Explore a variety of tools and utilities created by Malaysian developers to boost productivity and streamline tasks.
+  
+---
+  
+  ## How To Guides
+  Looking for practical advice and step-by-step instructions? Our 'How To' guides provide focused information to help you navigate various aspects of life in Malaysia.
+  
+  ### [Travel](/how-to/travel)
+  Embark on your next adventure with our comprehensive guide to both domestic and international travel, tailored for Malaysian explorers.
+
 ---
 

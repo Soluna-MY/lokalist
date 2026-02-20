@@ -69,6 +69,7 @@ Profit rates in digital banks are often promotional.
 
 ## Tax
 * [**KiraCukai**](https://kiracukai.my) — Personal income tax calculator for Malaysian. <Badge type="info" text="Calculator" />
+* [**TaxMe**](https://www.taxme-app.com/) — A platform that helps users with tax calculation and submission. <Badge type="info" text="Tax App" />
 
 ## Comparison
 * [**KadKredit**](https://www.kadkredit.my/) - A platform to compare Islamic credit cards in Malaysia. <Badge type="info" text="Credit Card" />

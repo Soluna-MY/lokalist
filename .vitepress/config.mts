@@ -100,8 +100,14 @@ export default defineConfig({
           {
             text: 'Tools',
             items: [
-              { text: 'Business', link: '/wiki/tools/#business' },
-              { text: 'Productivity', link: '/wiki/tools/#productivity' }
+              { text: 'Business', link: '/wiki/tools#business' },
+              { text: 'Productivity', link: '/wiki/tools#productivity' }
+            ]
+          },
+          {
+            text: 'How To',
+            items: [
+              { text: 'Travel', link: '/how-to/travel' }
             ]
           }
         ],
@@ -143,8 +149,14 @@ export default defineConfig({
           {
             text: 'Alatan',
             items: [
-              { text: 'Perniagaan', link: '/ms/wiki/tools/#perniagaan' },
-              { text: 'Produktiviti', link: '/ms/wiki/tools/#produktiviti' }
+              { text: 'Perniagaan', link: '/ms/wiki/tools#perniagaan' },
+              { text: 'Produktiviti', link: '/ms/wiki/tools#produktiviti' }
+            ]
+          },
+          {
+            text: 'Cara-cara',
+            items: [
+              { text: 'Perjalanan', link: '/ms/how-to/travel' }
             ]
           }
         ],
