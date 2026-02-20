@@ -21,6 +21,7 @@ Halaman ini menyenaraikan projek-projek berfokuskan pendidikan oleh pencipta Mal
 
 ## Umum
 * [**Teach For Malaysia**](https://teachformalaysia.org/) — Sebuah pertubuhan bukan untung yang mendapatkan pemimpin muda untuk mengajar di sekolah-sekolah berkeperluan tinggi. <Badge type="info" text="Bukan Untung" />
+* [**carisekolahmy**](https://carisekolah.civictech.my/en/) — Sebuah platform teknologi sivik untuk sekolah. <Badge type="info" text="Platform" />
 
 ## STEM
 * [**Arus Academy**](https://www.arusacademy.org.my/) — Sebuah perusahaan sosial yang menyediakan program selepas sekolah kepada pelajar yang memberi tumpuan kepada pembangunan kemahiran dalam STEM. <Badge type="info" text="STEM" />
