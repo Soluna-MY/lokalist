@@ -87,4 +87,13 @@ features:
     title: Alatan
     link: /ms/wiki/tools
     details: Terokai pelbagai alatan dan utiliti yang dicipta oleh pembangun Malaysia untuk meningkatkan produktiviti dan memudahkan tugas.
+
+---
+
+  ## Panduan Cara-cara
+  Mencari nasihat praktikal dan arahan langkah demi langkah? Panduan 'Cara-cara' kami menyediakan maklumat fokus untuk membantu anda menavigasi pelbagai aspek kehidupan di Malaysia.
+  
+  ### [Perjalanan](/ms/how-to/travel)
+  Mulakan pengembaraan seterusnya anda dengan panduan komprehensif kami untuk perjalanan domestik dan antarabangsa, disesuaikan untuk peneroka Malaysia.
+
 ---
