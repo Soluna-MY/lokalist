@@ -96,4 +96,7 @@ features:
   ### [Perjalanan](/ms/how-to/travel)
   Mulakan pengembaraan seterusnya anda dengan panduan komprehensif kami untuk perjalanan domestik dan antarabangsa, disesuaikan untuk peneroka Malaysia.
 
+  ### [Pembelajaran](/ms/how-to/study)
+  Mulakan pembelajaran seterusnya anda dengan panduan komprehensif kami untuk belajar secara berkesan
+
 ---

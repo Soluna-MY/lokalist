@@ -20,7 +20,7 @@ head:
 
 Sedia untuk meneroka? Sama ada percutian tempatan yang singkat atau perjalanan antarabangsa yang epik, Lokalist sedia membantu anda merancang perjalanan sempurna anda. Selami panduan kami untuk petua penting dan jadikan setiap perjalanan tidak dapat dilupakan.
 
-## Perjalanan Domestik: Temui Keajaiban Malaysia
+## Perjalanan Domestik
 
 1.  **Rancang Destinasi Impian Anda:**
     *   **Pilih Destinasi Anda:** Malaysia kaya dengan pelbagai landskap, dari bandar yang sibuk hingga pulau yang tenang dan hutan hujan yang subur. Pilih tempat yang menarik minat anda!
@@ -60,7 +60,7 @@ Sedia untuk meneroka? Sama ada percutian tempatan yang singkat atau perjalanan a
     *   **Alat Disyorkan:**
         <Badge type="tip" text="Transit: Moovit, Google Maps" />
 
-## Perjalanan Antarabangsa: Terokai Melangkaui Sempadan
+## Perjalanan Antarabangsa
 
 1.  **Kuasa Pasport & Visa:**
     *   **Tiket Global Anda:** Pastikan pasport anda sah selama sekurang-kurangnya enam bulan melebihi tarikh pulang yang anda inginkan. Penting sekali, semak keperluan visa untuk negara destinasi anda lebih awal. Jangan biarkan urusan kertas menangguhkan impian anda!
