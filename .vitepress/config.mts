@@ -107,7 +107,8 @@ export default defineConfig({
           {
             text: 'How To',
             items: [
-              { text: 'Travel', link: '/how-to/travel' }
+              { text: 'Travel', link: '/how-to/travel' },
+              { text: 'Study', link: '/how-to/study' }
             ]
           }
         ],
@@ -156,7 +157,8 @@ export default defineConfig({
           {
             text: 'Cara-cara',
             items: [
-              { text: 'Perjalanan', link: '/ms/how-to/travel' }
+              { text: 'Perjalanan', link: '/ms/how-to/travel' },
+              { text: 'Pembelajaran', link: '/ms/how-to/study' }
             ]
           }
         ],

@@ -20,7 +20,7 @@ head:
 
 Ready to explore? Whether it's a quick local getaway or an epic international journey, Lokalist is here to help you plan your perfect trip. Dive into our guide for essential tips and make every journey memorable.
 
-## Domestic Travel: Discover Malaysia's Wonders
+## Domestic Travel
 
 1.  **Dream Up Your Destination:**
     *   **Choose Your Escape:** Malaysia is brimming with diverse landscapes, from bustling cities to serene islands and lush rainforests. Pick a spot that calls to your soul!
@@ -55,7 +55,7 @@ Ready to explore? Whether it's a quick local getaway or an epic international jo
     *   **Suggested Tools:**
             <Badge type="tip" text="Transit: Moovit, Google Maps" />
             
-## International Travel: Explore Beyond Borders
+## International Travel
 
 1.  **Passport & Visa Power:**
     *   **Your Global Ticket:** Ensure your passport is valid for at least six months beyond your intended return date. Crucially, check the visa requirements for your destination country well in advance. Don't let paperwork delay your dreams!
@@ -74,9 +74,6 @@ Ready to explore? Whether it's a quick local getaway or an epic international jo
             <Badge type="info" text="Travel Cards: BigPay, Wise" />
 4.  **Stay Connected:**
     *   **Global Roaming:** Look into international roaming plans from your local provider, purchase an eSIM before you leave, or plan to buy a local SIM card upon arrival to stay connected without breaking the bank.
-    *   **Suggested Tools:**
-            <Badge type="tip" text="eSIM: Airalo" />
-            <Badge type="info" text="Local SIMs: Destination Telcos" />
 5.  **Dream Up Your Destination (Again!):**
     *   **World of Choices:** From ancient ruins to futuristic cities, the world is your oyster! Research cultures, customs, and local etiquette to ensure a respectful and enriching trip.
     *   **Timing is Still Everything:** Just like domestic travel, check global events, peak tourist seasons, and seasonal weather patterns. Some destinations are best visited during specific times of the year.
@@ -102,5 +99,3 @@ Ready to explore? Whether it's a quick local getaway or an epic international jo
             <Badge type="info" text="Activities: Klook, GetYourGuide" />
 10. **A Smooth Return (Post-Adventure):**
     *   **Bringing Back Memories:** Plan your return journey, account for potential time zone changes and jet lag, and enjoy reminiscing about your incredible international adventure. Don't forget to share your stories!
-    *   **Suggested Tools:**
-            <Badge type="tip" text="Photo Storage: Google Photos" />

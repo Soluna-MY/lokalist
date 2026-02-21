@@ -96,5 +96,8 @@ features:
   ### [Travel](/how-to/travel)
   Embark on your next adventure with our comprehensive guide to both domestic and international travel, tailored for Malaysian explorers.
 
+  ### [Study](/how-to/study)
+  Embark on your academic journey with our comprehensive guide to effective studying, tailored for Malaysian learners.
+
 ---
 
