@@ -1,5 +1,5 @@
 ---
-title: Cara - Belajar
+title: Cara-cara - Belajar
 description: Mulakan perjalanan akademik anda dengan panduan komprehensif kami untuk belajar secara berkesan, disesuaikan untuk pelajar Malaysia.
 head:
   - - meta

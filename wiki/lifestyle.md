@@ -38,5 +38,8 @@ This page lists lifestyle-related projects by Malaysian creators.
 * [**Juadah**](https://juadah.my/) - A platform for discovering and ordering traditional home-cooked Malaysian meals. <Badge type="info" text="Home-Cooked Food" />
 * [**PetaKopi**](https://petakopi.my/) - Discover interesting coffee shops in Malaysia. <Badge type="info" text="Coffee Guide" />
 
+## Streaming Services
+* [**Durioo+**](https://duriooplus.com/) - A Malaysian streaming platform offering educational and entertainment content for children. <Badge type="info" text="Streaming" />
+
 ## Wedding
 * [**JomKahwin**](https://jomkahwin.blog/) - A platform to find wedding vendors in Malaysia. <Badge type="info" text="Wedding Vendor" />

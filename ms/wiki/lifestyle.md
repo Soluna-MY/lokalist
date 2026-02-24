@@ -38,5 +38,8 @@ Halaman ini menyenaraikan projek-projek berkaitan gaya hidup oleh pencipta Malay
 * [**Juadah**](https://juadah.my/) - Platform untuk mencari dan memesan hidangan masakan rumah tradisional Malaysia. <Badge type="info" text="Makanan Masakan Rumah" />
 * [**PetaKopi**](https://petakopi.my/) - Cari kedai kopi menarik di Malaysia. <Badge type="info" text="Panduan Kopi" />
 
+## Perkhidmatan Penstriman
+* [**Durioo+**](https://duriooplus.com/) - Platform penstriman Malaysia yang menawarkan kandungan pendidikan dan hiburan untuk kanak-kanak. <Badge type="info" text="Streaming" />
+
 ## Perkahwinan
 * [**JomKahwin**](https://jomkahwin.blog/) - Platform untuk mencari vendor perkahwinan di Malaysia. <Badge type="info" text="Vendor Perkahwinan" />
