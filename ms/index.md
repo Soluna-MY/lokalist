@@ -28,6 +28,9 @@ hero:
     - theme: alt
       text: Soalan Lazim
       link: /ms/faq
+    - theme: alt
+      text: Tambah projek anda
+      link: https://docs.google.com/forms/d/e/1FAIpQLSdxyS2eQA7MpoIFmQsTmYyT5OkDash17dfp7elrHp7LF5jKPg/viewform?usp=publish-editor
 
 features:
   - icon: |

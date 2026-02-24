@@ -28,6 +28,9 @@ hero:
     - theme: alt
       text: FAQ
       link: /faq
+    - theme: alt
+      text: Submit your project
+      link: https://docs.google.com/forms/d/e/1FAIpQLSdxyS2eQA7MpoIFmQsTmYyT5OkDash17dfp7elrHp7LF5jKPg/viewform?usp=publish-editor
 
 features:
   - icon: |
