@@ -43,3 +43,9 @@ Halaman ini menyenaraikan projek-projek berkaitan gaya hidup oleh pencipta Malay
 
 ## Perkahwinan
 * [**JomKahwin**](https://jomkahwin.blog/) - Platform untuk mencari vendor perkahwinan di Malaysia. <Badge type="info" text="Vendor Perkahwinan" />
+
+## Tempat Kerja
+* [**Spacing**](https://spacing.my/) - Akses ruang kerja bersama automatik dengan tempahan segera dan akses 24/7. <Badge type="info" text="Ruang Kerja Bersama" />
+
+## Fotografi
+* [**SesiFoto**](https://sesifoto.my) - Platform tempahan fotografi untuk sesi penggambaran studio. <Badge type="info" text="Fotografi" />

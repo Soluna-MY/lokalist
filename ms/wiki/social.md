@@ -54,6 +54,11 @@ Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysi
 * [**Rayyan**](https://rayyan.soluna.my) — Aplikasi Al-Quran digital yang moden. <Badge type="info" text="Islam" />
 * [**GoSolat**](https://www.gosolat.com/en/) — Waktu solat dan panduan ibadah. <Badge type="info" text="Islam" />
 * [**Islah**](https://islah.my) — Platform komuniti dan pendidikan Islam. <Badge type="info" text="Islam" />
+* [**Maktabah Ramadan**](https://maktabah-ramadan.com) - Himpunan hadis-hadis berkaitan topik Ramadan. <Badge type="info" text="Islam" />
+* [**SedekahJe**](https://sedekah.je) - Direktori kod QR berpusat untuk masjid, surau, dan institusi Islam di Malaysia. <Badge type="info" text="Sedekah" />
+
+## Perlindungan Pengguna
+* [**PenipuMY**](https://penipu.my) - Platform pelaporan dan pengesahan penipuan (scam) dipacu komuniti untuk Malaysia. <Badge type="info" text="Keselamatan" />
 
 ## Ekonomi Pencipta
 * [**Arkedd**](https://arkedd.com/) - Platform di mana pencipta boleh membina, memuat naik dan berkongsi produk digital mereka di seluruh dunia. <Badge type="info" text="Produk Digital" />
@@ -65,3 +70,4 @@ Halaman ini menyenaraikan projek-projek berfokuskan sosial oleh pencipta Malaysi
 * [**CariLocum**](https://carilocum.com/) - Platform untuk profesional penjagaan kesihatan untuk mencari peluang locum yang fleksibel di Malaysia. <Badge type="info" text="Penjagaan Kesihatan" />
 * [**CariWork.com**](https://cariwork.com/) — Platform carian kerja di Malaysia. <Badge type="info" text="Carian Kerja" />
 * [**JOBS by DeveloperKaki**](https://jobs.developerkaki.my/) — Papan kerja khusus untuk pembangun perisian. <Badge type="info" text="Carian Kerja" />
+* [**Freelancing Malaysia**](https://www.freelancing.my) - Portal papan kerja untuk pekerja bebas (freelancer) di Malaysia. <Badge type="info" text="Carian Kerja" />

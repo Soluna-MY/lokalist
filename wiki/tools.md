@@ -28,3 +28,8 @@ This page lists tools and utilities by Malaysian creators.
 ## Productivity
 * [**KadMe**](https://kadmehq.com/) - A digital business card solution. <Badge type="info" text="Digital Business Card" />
 * [**HandAi Builder**](https://builder.handai.my/) - A next-generation form builder. <Badge type="info" text="Form Builder" />
+* [**Rekavibe**](https://rekavibe.site) - A design productivity tool for non-designers to create professional social media assets. <Badge type="info" text="Design Tool" />
+* [**NodeX**](https://nodex.my/) - A simple online form builder that sends submissions instantly to Telegram. <Badge type="info" text="Form Builder" />
+
+## Media
+* [**Zavvid**](https://zavvid.haikalakif.com) - A free YouTube video and audio downloader. <Badge type="info" text="Video Downloader" />

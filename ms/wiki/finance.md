@@ -52,8 +52,9 @@ Kadar keuntungan di bank digital selalunya bersifat promosi.
 * [**Mplus Online**](https://www.mplusonline.com.my/) — Platform berasaskan aplikasi untuk pelaburan dalam pasaran modal. <Badge type="tip" text="Broker Dalam Talian" />
 
 ### Mata Wang Kripto
-* [**Luno**](httpshttps://www.luno.com/ms/discover) — Platform untuk membeli, menjual dan mengurus mata wang kripto. <Badge type="info" text="Kripto" />
+* [**Luno**](https://www.luno.com/ms/discover) — Platform untuk membeli, menjual dan mengurus mata wang kripto. <Badge type="info" text="Kripto" />
 * [**BLOX**](https://www.blox.my/) - Penerbit Stablecoin MYRC. MYRC ialah Stablecoin Ringgit pertama di Malaysia. <Badge type="info" text="Stablecoin" />
+* [**CoinGecko**](https://www.coingecko.com/) - Agregator data mata wang kripto bebas terbesar di dunia. <Badge type="info" text="Kripto" />
 
 ## E-Dompet
 * [**Touch 'n Go eWallet**](https://www.touchngo.com.my/) — Dompet digital dengan perkhidmatan kewangan seperti GO+ untuk simpanan mikro. <Badge type="tip" text="e-Dompet" />
