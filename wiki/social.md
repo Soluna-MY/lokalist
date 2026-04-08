@@ -54,6 +54,11 @@ This page lists social-focused projects by Malaysian creators.
 * [**Rayyan**](https://rayyan.soluna.my) - A modern digital Al-Quran application. <Badge type="info" text="Islam" />
 * [**GoSolat**](https://www.gosolat.com/en/) - Prayer times and worship guide. <Badge type="info" text="Islam" />
 * [**Islah**](https://islah.my) - Islamic community and education platform. <Badge type="info" text="Islam" />
+* [**Maktabah Ramadan**](https://maktabah-ramadan.com) - A repository of hadiths related to Ramadan topics. <Badge type="info" text="Islam" />
+* [**SedekahJe**](https://sedekah.je) - Centralized QR code directory for mosques, suraus, and Islamic institutions in Malaysia. <Badge type="info" text="Charity" />
+
+## Consumer Protection
+* [**PenipuMY**](https://penipu.my) - A community-driven scam reporting and verification platform for Malaysia. <Badge type="info" text="Safety" />
 
 ## Creator Economy
 * [**Arkedd**](https://arkedd.com/) - A platform where creators can build, upload, and share their digital products globally. <Badge type="info" text="Digital Products" />
@@ -65,3 +70,4 @@ This page lists social-focused projects by Malaysian creators.
 * [**CariLocum**](https://carilocum.com/) - A platform for healthcare professionals to find flexible locum opportunities in Malaysia. <Badge type="info" text="Healthcare" />
 * [**CariWork.com**](https://cariwork.com/) - Job search platform in Malaysia. <Badge type="info" text="Job Search" />
 * [**JOBS by DeveloperKaki**](https://jobs.developerkaki.my/) - Job board specifically for software developers. <Badge type="info" text="Job Search" />
+* [**Freelancing Malaysia**](https://www.freelancing.my) - A job board portal for freelancers in Malaysia. <Badge type="info" text="Job Search" />

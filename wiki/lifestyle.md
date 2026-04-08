@@ -43,3 +43,9 @@ This page lists lifestyle-related projects by Malaysian creators.
 
 ## Wedding
 * [**JomKahwin**](https://jomkahwin.blog/) - A platform to find wedding vendors in Malaysia. <Badge type="info" text="Wedding Vendor" />
+
+## Workplace
+* [**Spacing**](https://spacing.my/) - Automated coworking access with instant booking and 24/7 access. <Badge type="info" text="Co-working Space" />
+
+## Photography
+* [**SesiFoto**](https://sesifoto.my) - A photography booking platform for in-studio photoshoots and sessions. <Badge type="info" text="Photography" />

@@ -25,3 +25,6 @@ Halaman ini menyenaraikan projek-projek berfokuskan pendidikan oleh pencipta Mal
 
 ## STEM
 * [**Arus Academy**](https://www.arusacademy.org.my/) — Sebuah perusahaan sosial yang menyediakan program selepas sekolah kepada pelajar yang memberi tumpuan kepada pembangunan kemahiran dalam STEM. <Badge type="info" text="STEM" />
+
+## Integriti Akademik
+* [**WriteCheck AI**](https://writecheckai.com) - Alatan dikuasakan AI untuk imbasan plagiat dan integriti akademik. <Badge type="info" text="EdTech" />

@@ -54,6 +54,7 @@ Profit rates in digital banks are often promotional.
 ### Cryptocurrency
 * [**Luno**](https://www.luno.com/ms/discover) — A platform for buying, selling, and managing cryptocurrencies. <Badge type="info" text="Crypto" />
 * [**BLOX**](https://www.blox.my/) - A MYRC Stablecoin Issuer. MYRC is Malaysia's first Ringgit Stablecoin. <Badge type="info" text="Stablecoin" />
+* [**CoinGecko**](https://www.coingecko.com/) - The world's largest independent cryptocurrency data aggregator. <Badge type="info" text="Crypto" />
 
 ## E-Wallets
 * [**Touch 'n Go eWallet**](https://www.touchngo.com.my/) — Digital wallet with financial services like GO+ for microsavings. <Badge type="tip" text="eWallet" />

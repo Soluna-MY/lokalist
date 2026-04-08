@@ -25,3 +25,6 @@ This page lists education-focused projects by Malaysian creators.
 
 ## STEM
 * [**Arus Academy**](https://www.arusacademy.org.my/) — A social enterprise that provides students with after-school programs focused on developing skills in STEM. <Badge type="info" text="STEM" />
+
+## Academic Integrity
+* [**WriteCheck AI**](https://writecheckai.com) - AI-powered tools for plagiarism scanning and academic integrity. <Badge type="info" text="EdTech" />

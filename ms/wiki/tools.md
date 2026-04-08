@@ -28,3 +28,8 @@ Laman ini menyenaraikan alatan dan utiliti oleh pencipta Malaysia.
 ## Produktiviti
 * [**KadMe**](https://kadmehq.com/) - Penyelesaian kad perniagaan digital. <Badge type="info" text="Kad Perniagaan Digital" />
 * [**HandAi Builder**](https://builder.handai.my/) - Pembina borang generasi akan datang. <Badge type="info" text="Pembina Borang" />
+* [**Rekavibe**](https://rekavibe.site) - Alatan produktiviti reka bentuk untuk bukan pereka mencipta aset media sosial profesional. <Badge type="info" text="Alatan Reka Bentuk" />
+* [**NodeX**](https://nodex.my/) - Pembina borang dalam talian mudah yang menghantar penyerahan serta-merta ke Telegram. <Badge type="info" text="Pembina Borang" />
+
+## Media
+* [**Zavvid**](https://zavvid.haikalakif.com) - Pemuat turun video dan audio YouTube percuma. <Badge type="info" text="Pemuat Turun Video" />
