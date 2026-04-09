@@ -93,7 +93,6 @@ export default defineConfig({
               { text: 'Lifestyle', link: '/wiki/lifestyle' },
               { text: 'Education', link: '/wiki/education' },
               { text: 'Games', link: '/wiki/games' },
-              { text: 'Tools', link: '/wiki/tools' },
               { text: 'Technology', link: '/wiki/technology' },
             ]
           },
@@ -101,7 +100,8 @@ export default defineConfig({
             text: 'Tools',
             items: [
               { text: 'Business', link: '/wiki/tools#business' },
-              { text: 'Productivity', link: '/wiki/tools#productivity' }
+              { text: 'Productivity', link: '/wiki/tools#productivity' },
+              { text: 'Media', link: '/ms/wiki/tools#media' }
             ]
           },
           {
@@ -151,7 +151,8 @@ export default defineConfig({
             text: 'Alatan',
             items: [
               { text: 'Perniagaan', link: '/ms/wiki/tools#perniagaan' },
-              { text: 'Produktiviti', link: '/ms/wiki/tools#produktiviti' }
+              { text: 'Produktiviti', link: '/ms/wiki/tools#produktiviti' },
+              { text: 'Media', link: '/ms/wiki/tools#media' }
             ]
           },
           {
