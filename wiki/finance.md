@@ -72,6 +72,9 @@ Profit rates in digital banks are often promotional.
 * [**KiraCukai**](https://kiracukai.my) — Personal income tax calculator for Malaysian. <Badge type="info" text="Calculator" />
 * [**TaxMe**](https://www.taxme-app.com/) — A platform that helps users with tax calculation and submission. <Badge type="info" text="Tax App" />
 
+## Real Estate
+* [**CheckValue**](https://checkvalue.com.my/en) — An AI-driven property valuation tool for the Malaysian real estate market. <Badge type="info" text="PropTech" />
+
 ## Comparison
 * [**KadKredit**](https://www.kadkredit.my/) - A platform to compare Islamic credit cards in Malaysia. <Badge type="info" text="Credit Card" />
 * [**MurahBeli**](https://murahbeli.com/) - Price comparison for groceries and essentials in Malaysia. <Badge type="info" text="Price Comparison" />

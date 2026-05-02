@@ -37,6 +37,15 @@ Berikut adalah senarai projek teknologi, aplikasi web, dan aplikasi mudah alih y
 *   **[Katsana](https://katsana.com/)**: Syarikat data yang memberi tumpuan kepada kereta terhubung dan telematik untuk pengurusan flit dan insurans.
 *   **[Carsome](https://www.carsome.my/)**: Platform dalam talian untuk membeli dan menjual kereta terpakai.
 
+## Keselamatan Siber
+
+*   **[SiberangeX](https://siberangex.com/)** — Platform pendidikan keselamatan siber dengan makmal praktikal untuk keselamatan web. <Badge type="info" text="Platform Pembelajaran" />
+*   **[LEKIR Framework](https://lekirframework.com/)** — Rangka kerja aplikasi web terdedah untuk mempelajari ujian keselamatan. <Badge type="info" text="Rangka Kerja Keselamatan" />
+
+## Pembangunan
+
+*   **[Uplinkr](https://uplinkr.xyz/)** — Alat pembangun yang membina terowong selamat untuk menghubungkan pelayan lokal ke internet. <Badge type="info" text="Alat Pembangun" />
+
 ## Platform & Pasaran
 
 *   **[Jobstreet.com](https://www.jobstreet.com.my/)**: Salah satu portal pekerjaan terawal dan terbesar di Malaysia.
