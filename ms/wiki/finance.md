@@ -72,6 +72,9 @@ Kadar keuntungan di bank digital selalunya bersifat promosi.
 * [**KiraCukai**](https://kiracukai.my) — Kalkulator cukai pendapatan peribadi untuk rakyat Malaysia. <Badge type="info" text="Kalkulator" />
 * [**TaxMe**](https://www.taxme-app.com/) — Sebuah platform yang membantu pengguna dengan pengiraan dan penyerahan cukai. <Badge type="info" text="Aplikasi Cukai" />
 
+## Hartanah
+* [**CheckValue**](https://checkvalue.com.my/en) — Alat penilaian hartanah dipacu AI untuk pasaran hartanah di Malaysia. <Badge type="info" text="PropTech" />
+
 ## Perbandingan
 * [**KadKredit**](https://www.kadkredit.my/) - Platform untuk membandingkan kad kredit Islamik di Malaysia. <Badge type="info" text="Kad Kredit" />
 * [**MurahBeli**](https://murahbeli.com/) — Perbandingan harga barangan runcit dan keperluan di Malaysia. <Badge type="info" text="Perbandingan Harga" />

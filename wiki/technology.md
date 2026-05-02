@@ -37,6 +37,15 @@ Here is a list of technology projects, web apps, and mobile apps made by Malaysi
 *   **[Katsana](https://katsana.com/)**: A data company focusing on connected cars and telematics for fleet management and insurance.
 *   **[Carsome](https://www.carsome.my/)**: An online platform for buying and selling used cars.
 
+## Cybersecurity
+
+*   **[SiberangeX](https://siberangex.com/)** — A cybersecurity education platform offering hands-on labs for web security. <Badge type="info" text="Learning Platform" />
+*   **[LEKIR Framework](https://lekirframework.com/)** — A vulnerable web application framework for learning security testing. <Badge type="info" text="Security Framework" />
+
+## Development
+
+*   **[Uplinkr](https://uplinkr.xyz/)** — A developer tool that creates secure tunnels to expose local servers to the internet. <Badge type="info" text="DevTool" />
+
 ## Platforms & Marketplaces
 
 *   **[Jobstreet.com](https://www.jobstreet.com.my/)**: One of the earliest and largest job portals in Malaysia.

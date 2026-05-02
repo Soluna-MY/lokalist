@@ -26,5 +26,18 @@ This page lists education-focused projects by Malaysian creators.
 ## STEM
 * [**Arus Academy**](https://www.arusacademy.org.my/) — A social enterprise that provides students with after-school programs focused on developing skills in STEM. <Badge type="info" text="STEM" />
 
+## Academic
+* [**Jom Skor SPM**](https://jomskorspm.my/) — An educational platform helping students prepare for the SPM examinations. <Badge type="info" text="EdTech" />
+
+## Technology
+* [**MFBK Tech Academy**](https://mfbktech.academy/) — An academy focused on providing technical training and technology education. <Badge type="info" text="Academy" />
+
+## Student Tools
+* [**UiTM Timetable Generator**](https://uitm-timetable.vercel.app/) — A tool for UiTM students to generate and manage their class schedules. <Badge type="info" text="Tool" />
+* [**Bila UiTM Cuti**](https://bilauitmcuti.com/) — A simple tool for UiTM students to check academic holidays and semester breaks. <Badge type="info" text="Tool" />
+
+## Early Childhood
+* [**Kiddo Kit**](https://kiddo-kit.aufnasa.cloud/) — A platform providing educational resources and kits for early childhood development. <Badge type="info" text="EdTech" />
+
 ## Academic Integrity
 * [**WriteCheck AI**](https://writecheckai.com) - AI-powered tools for plagiarism scanning and academic integrity. <Badge type="info" text="EdTech" />
